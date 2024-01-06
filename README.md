@@ -39,17 +39,17 @@ This project is a shopping website that looks like Amazon website
 
 ## Screenshot
 #### Home
-![home](https://raw.githubusercontent.com/ForceboltKishor/amazon-demo/main/aws-clone-1.jpeg)
+![home](https://raw.githubusercontent.com/ForceboltKishor/amazon-demo/master/aws-clone-1.jpeg)
 #### Product Page
-![product-page](https://raw.githubusercontent.com/ForceboltKishor/amazon-demo/main/aws-clone-2.jpeg)
+![product-page](https://raw.githubusercontent.com/ForceboltKishor/amazon-demo/master/aws-clone-2.jpeg)
 #### Browse Page
-![browse](https://raw.githubusercontent.com/ForceboltKishor/amazon-demo/main/aws-clone-3.jpeg)
+![browse](https://raw.githubusercontent.com/ForceboltKishor/amazon-demo/master/aws-clone-3.jpeg)
 #### Cart Page
-![cart](https://raw.githubusercontent.com/ForceboltKishor/amazon-demo/main/aws-clone-4.jpeg)
+![cart](https://raw.githubusercontent.com/ForceboltKishor/amazon-demo/master/aws-clone-4.jpeg)
 #### Checkout Page
-![checkout](https://raw.githubusercontent.com/ForceboltKishor/amazon-demo/main/aws-clone-5.jpeg)
+![checkout](https://raw.githubusercontent.com/ForceboltKishor/amazon-demo/master/aws-clone-5.jpeg)
 #### Admin Dashboard
-![create-product](https://raw.githubusercontent.com/ForceboltKishor/amazon-demo/main/aws-clone-6.jpeg)
+![create-product](https://raw.githubusercontent.com/ForceboltKishor/amazon-demo/master/aws-clone-6.jpeg)
 
 ## ℹ️ How To Use
 
